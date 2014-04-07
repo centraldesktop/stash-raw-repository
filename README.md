@@ -1,5 +1,8 @@
 Add a URL under your Stash's root folder to handle serving repository files as web assets (supporting relative links, etc).  This largely addresses documentation serving use cases.
 
+For examples.
+
+/stash/plugins/servlet/raw/{PROJECT_KEY}/{REPOSITORY_KEY}/path/to/file.html
 
 Here are the SDK commands you'll use immediately:
 
